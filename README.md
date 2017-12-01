@@ -7,7 +7,7 @@ I hope you enjoy the posts !
 ### BLCF - A RPG coding in C++
 
 I appreciate feedbacks and advices of my code. I'm not an expert but I want to improve my codes.
-[https://github.com/NormanMarlier/blcf]
+[Repository](https://github.com/NormanMarlier/blcf)
 
 
 
