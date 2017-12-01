@@ -1,12 +1,15 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NormanMarlier/NormanMarlier.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site is under contruction because I'm learning HTML and CSS. This page will contain some posts about robots, control, 3D printing, structural optimization, machine learning, domotic... A lot of things related to the field of new technologies.
+I hope you enjoy the posts !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### BLCF - A RPG conding in C++
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I appreciate feedbacks and advices of my code. I'm not an expert but I want to improve my codes.
+[https://github.com/NormanMarlier/blcf]
+
+
 
 ```markdown
 Syntax highlighted code block
