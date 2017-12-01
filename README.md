@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My new own page !
 
 This site is under contruction because I'm learning HTML and CSS. This page will contain some posts about robots, control, 3D printing, structural optimization, machine learning, domotic... A lot of things related to the field of new technologies.
 I hope you enjoy the posts !
