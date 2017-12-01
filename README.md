@@ -4,7 +4,7 @@ This site is under contruction because I'm learning HTML and CSS. This page will
 I hope you enjoy the posts !
 
 
-### BLCF - A RPG conding in C++
+### BLCF - A RPG coding in C++
 
 I appreciate feedbacks and advices of my code. I'm not an expert but I want to improve my codes.
 [https://github.com/NormanMarlier/blcf]
