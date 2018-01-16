@@ -6,6 +6,7 @@ I hope you enjoy the posts !
 
 ### BLCF - A RPG coding in C++
 
+
 I appreciate feedbacks and advices of my code. I'm not an expert but I want to improve my codes.
 [Repository](https://github.com/NormanMarlier/blcf)
 
@@ -33,9 +34,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NormanMarlier/NormanMarlier.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
