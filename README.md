@@ -1,11 +1,15 @@
-## My new own page !
+# My new own page !
 
-This site is under contruction because I'm learning HTML and CSS. This page will contain some posts about robots, control, 3D printing, structural optimization, machine learning, domotic... A lot of things related to the field of new technologies.
+This site is under contruction ... This page will contain some posts about robots, control, 3D printing, structural optimization, machine learning, domotic... A lot of things related to the field of new technologies.
 I hope you enjoy the posts !
+
+## Next projects
+- I want to make a library for reinforcement learning in C++
+- I want to make a bluetooth coffeemaker for my girlfriend
 
 
 ### BLCF - A RPG coding in C++
-
+BLCF is simple rpg game. 
 
 I appreciate feedbacks and advices of my code. I'm not an expert but I want to improve my codes.
 [Repository](https://github.com/NormanMarlier/blcf)
