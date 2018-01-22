@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: Norman's homepage
 description: Robots, robots everywhere !
 permalink: /blog/:2018/:01/:19/:BLCF
+plugins:
+  - jekyll-seo-tag
