@@ -4,3 +4,5 @@ description: Robots, robots everywhere !
 permalink: /blog/:2018/:01/:19/:BLCF
 plugins:
   - jekyll-seo-tag
+social:
+  name: Norman Marlier
